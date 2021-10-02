@@ -1,5 +1,3 @@
+""" Simple module file
 """
-The root package contains all the source code for the game.
-"""
-
-
+from .__main__ import __version__
